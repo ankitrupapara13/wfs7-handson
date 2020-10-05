@@ -24,7 +24,7 @@ public class EmpMain {
 		
 		do {
 
-			System.out.println("1. Store \n" + "2. Sort and Display \n" + "3. Pick Top 3 \n" + "4. Exit \n");
+			System.out.println("1. Store \n" + "2. Sort and Display \n" + "3. Pick Top 3 \n" + "Other. Exit \n");
 			choice = sc.nextInt();
 			switch (choice) {
 			case 1:
